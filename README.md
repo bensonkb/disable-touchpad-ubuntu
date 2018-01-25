@@ -1,5 +1,5 @@
-# disable-touchpad-ubuntu
-To disable the touchpad in Ubuntu 
+# toggle-touchpad-ubuntu
+To toggle the touchpad and mouse in Ubuntu 
 Put the following code in a file, such as touchpad_toggle.sh:
 
 #!/bin/bash
